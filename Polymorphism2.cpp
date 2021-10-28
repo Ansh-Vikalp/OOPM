@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 //Welcome
+//Nice
 // Now we will study second part of polymorphism i.e. Virtual function
 
 class xyz
