@@ -7,7 +7,7 @@ using namespace std;
 /*                                  😎Armstrong Number 2 
     This program is to check wheather given n-digit no. is Armstrong or not 
 
-
+    0,1,153, 370, 371, 407, 1634, 8208, 9474
 
 */
 
