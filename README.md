@@ -14,5 +14,6 @@ Some personal suggestions-
 2) If mind get exausted and stuck fell tired, take a pause walk outside in fresh air come Home and recode.
 3) Never judge you to be very good or very bad remember, no one in this world is absolute all are relative.
 4) Don't Cheat yourself.
+5) Also, if you liked it please leave a star.
           
                                                           🥰Enjoy the journey of LIFE!
