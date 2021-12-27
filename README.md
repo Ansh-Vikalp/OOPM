@@ -16,4 +16,4 @@ Some personal suggestions-
 4) Don't Cheat yourself.
 5) Also, if you liked it please leave a star.
           
-                                                          🥰Enjoy the journey of LIFE!
+                                        🥰Enjoy the journey of LIFE!
