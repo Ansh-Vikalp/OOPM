@@ -4,7 +4,7 @@ Hellow users nice to see you here. I have created this folder of OOPM(Object ori
 which, includes lots of interesting program from basic to advance made in pure C++.
 To make it more entertaining and redable i had included tonns of comments with emoji.
 All the effort in making thid directory goes to me and my OOPM Subject teacher Prof. Nikesh Tiwari(L.N.C.T.S, Bhopal).
-All the way of journey he has supported me a lot with a buch of ideas and logics.
+All the way of journey he has supported me a lot with a bunch of ideas and logics.
 Please, not try to copy just code develop a felling of understanding and logic of implementaion only then you successfull developer.
 I will try my best to make changes and add more such files in it.
 Suggestion regarding any change in code and ideas are always welcome.👨‍💻
